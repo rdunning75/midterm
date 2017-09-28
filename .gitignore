@@ -1,0 +1,7 @@
+*
+
+!/src
+!/bin
+!/src/*
+!/bin/*
+!.gitignore
