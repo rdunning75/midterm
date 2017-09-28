@@ -2,6 +2,7 @@
 
 !/src
 !/bin
-!/src/*
-!/bin/*
+!/src/midterm
+!/src/midterm/HelloWorld.java
+!/bin
 !.gitignore
