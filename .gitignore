@@ -5,4 +5,5 @@
 !/bin/*
 !/src/midterm
 !/src/midterm/HelloWorld.java
+!readme.txt
 !.gitignore
